@@ -1,1 +1,30 @@
-/* write your override styles here */
+#wall {
+    display: none;
+}
+#tag-2 {
+    display: none;
+}
+#tag-3 {
+    display: none;
+}
+.parent {
+    display: none;
+}
+#tag-4 {
+    display: none;
+}
+#tag-5 {
+    display: none;
+}
+#tag-6 {
+    display: none;
+}
+script {
+    display: none;
+}
+title {
+    display: none;
+}
+link [href="http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css"] {
+    display: none;
+}
